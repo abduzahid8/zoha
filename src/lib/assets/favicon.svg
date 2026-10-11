@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="44 80 572 424" fill="none">
+  <!-- Zoha character — angular geometric rhino, recreation of the brand mark -->
+  <g stroke="#000" stroke-linejoin="miter" stroke-linecap="square">
+    <!-- tail -->
+    <path d="M98 246 L66 230 L58 262 L92 272 Z" fill="#fff" stroke-width="12"/>
+    <!-- body mass -->
+    <path d="M96 268 L104 198 L138 152 L196 122 L268 106 L330 112 L372 136 L390 168 L388 214 L374 262 L362 300 L300 318 L208 328 L138 316 L100 294 Z" fill="#fff" stroke-width="14"/>
+    <!-- back far leg -->
+    <path d="M104 292 L146 298 L152 396 L158 470 L112 472 L106 400 Z" fill="#fff" stroke-width="12"/>
+    <!-- back near leg -->
+    <path d="M148 300 L198 306 L190 400 L176 472 L130 466 L142 396 Z" fill="#fff" stroke-width="12"/>
+    <!-- front far leg -->
+    <path d="M272 296 L314 300 L324 396 L332 472 L288 474 L282 400 Z" fill="#fff" stroke-width="12"/>
+    <!-- front near leg -->
+    <path d="M322 288 L368 292 L390 388 L402 470 L358 476 L348 392 Z" fill="#fff" stroke-width="12"/>
+    <!-- head -->
+    <path d="M352 152 L398 128 L452 144 L502 188 L534 236 L528 268 L490 288 L430 286 L388 262 L362 220 L350 182 Z" fill="#fff" stroke-width="14"/>
+    <!-- rear horn -->
+    <path d="M466 186 L490 200 L522 148 L500 168 Z" fill="#fff" stroke-width="11"/>
+    <!-- front horn -->
+    <path d="M508 214 L536 232 L572 176 L592 96 L560 152 L536 184 Z" fill="#fff" stroke-width="11"/>
+    <!-- ear -->
+    <path d="M402 130 L392 100 L430 116 L436 140 Z" fill="#fff" stroke-width="11"/>
+    <!-- hooves -->
+    <path d="M356 448 L402 444 L406 470 L356 476 Z" fill="#000"/>
+    <path d="M286 450 L332 448 L334 474 L288 476 Z" fill="#000"/>
+    <path d="M128 442 L178 448 L176 472 L126 466 Z" fill="#000"/>
+    <path d="M110 446 L158 448 L158 472 L110 472 Z" fill="#000"/>
+    <!-- cut lines -->
+    <path d="M240 130 L292 142 L258 216 L246 156 Z" fill="#000"/>
+    <path d="M150 210 L196 236 L168 268 L148 232 Z" fill="#000"/>
+    <path d="M356 176 L372 190 L360 232 L350 200 Z" fill="#000"/>
+    <path d="M420 268 L470 276 L448 292 L418 284 Z" fill="#000"/>
+    <!-- eye -->
+    <path d="M430 186 L448 192 L442 206 L428 200 Z" fill="#000"/>
+  </g>
+</svg>
